@@ -1,5 +1,5 @@
 # UE-BP-LiveLinkDummy
-Unreal > LiveLink > Unreal
+Unreal > Virtual LiveLink > Rebroadcast > Unreal
 
 Blueprints made with UE 4.27. Not guaranteed to work in other versions.
 
